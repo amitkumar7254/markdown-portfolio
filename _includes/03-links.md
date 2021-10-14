@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+You can check out my other talks and streams at [fecebook.com/Amit Gupta](https://www.facebook.com/profile.php?id=100022949902917) and say hello on Instagram [amitgupta0.0.1](https://www.instagram.com/amitgupta0.0.1/)
